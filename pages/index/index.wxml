@@ -1,0 +1,185 @@
+<view class="headbag">
+    <view class='margin-10'>
+        <view class="userinfo">
+          <image class="userinfo-avatar" src="/imgs/resume/icon.jpg" background-size="cover"></image>
+          <text class="userinfo-nickname">{{userinfo.nickName}}</text>
+      </view>
+    </view>
+    <view class='portrait'>
+      <view class='TrueName'>郑伟(芜湖)</view>
+      <view class='describe'>
+        <view>软件开发主管 ● 安徽人本文化技有限公司</view>
+        <view>男 | 25岁 | 3年以上开发经验 | 本科 </view>
+        <view bindtap='phonecall' data-mobile="17521015950">M. 18895393339 | E. 443831225@qq.com</view>
+      </view>
+    </view>
+
+<view class='superiority'>
+  可前端上马做交互，后端下马理逻辑，有品位有思维
+  </view>
+    <view class='clear'></view>
+
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/work.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='led'>苏州威思登软件科技有限公司</view>
+              <view class='position'>任职:【 Java开发工程师 】</view>
+              <view class='deadline'>期限:【 2017.11 - 2018.11 】</view>
+              <view class='JobDescription'>
+          <text>1、对接客户需求、参与数据库设计、系统开发、协助测试
+                2、服务器部署，域名备案，ssl证书申请以及部署
+                3、系统发布以及演示，编写操作指导书
+              5、使用的技术有：后端springboot,框架，前端div、css、jquery、ajax、bootstrap等，solr 全文搜索，zookeeper管理solr集群。
+          </text>
+
+              </view>
+            <view class='clear'></view>
+
+            <view class='led'>安徽人本文化科技有限公司</view>
+              <view class='position'>任职:【 软件开发主管 】</view>
+              <view class='deadline'>期限:【 2018.11 - 至今】</view>
+              <view class='JobDescription'>
+                <text>1、在此期间负责招聘组建培训团队，项目bug测试、项目质量把控，制作技术开发文档、项目任务实施安排等。
+2、进行给政府定制小程序项目的主程开发，服务器环境搭建、运维，数据库设计等。
+3、为公司重大决策项目、新产品技术项目的立项和开发提供建议和指导；
+4、协助前端开发人员完成后端服务的开发与前端Web应用的对接等；
+5、使用的技术有：后端springboot,框架，前端Vue框架等。
+6、搭建的服务器为：腾讯云,阿里云Linux，环境为：centos7.5，java8、mysql5.7数据库、redis做缓存、nginx1.6代理服务器、git代码版本管理、git钩子等。
+                </text>
+              </view>
+              <view class='clear'></view>
+
+          </view>
+
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/Project.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+
+          <view class='ledtop'>
+              <view class='led'>“江苏梦想游”旅游网站</view>
+              <view class='position'>开发周期：120个工作日</view>
+              <view class='deadline'>采用框架：springboot+bootstrap</view>
+              <view class='JobDescription'>
+        该项目我主要负责 参与数据库表的设计和部分模块接口编写，
+        模块:用户管理、旅游路线、订单、以及地方特。网站存在大量的图片，为了减少主服务器的压力,使用fastDFS搭建图片服务器解决服务器压力，在商品添加页面使用FCK,提高灵活性使用，Redis缓存服务器来减小服务器压力使用Solr服务器实现站内搜索技术，zookeeper管理solr集群
+              </view>
+          </view>
+          <view class='clear'></view>
+
+          <view class='ledtop'>
+              <view class='led'>柳州巩固国家卫生城市管理系统</view>
+              <view class='position'>开发周期：90个工作日</view>
+              <view class='deadline'>采用框架：springboot+Vue</view>
+              <view class='JobDescription'>
+             该项目负责招聘组建培训团队，项目bug测试、项目质量把控，制作技术开发文档、项目任务实施安排,后台框架springboot搭建，负责后台管理系统、app端的接口以及小程序部分接口，以及接口文档，以及项目部署与发布。
+              </view>
+          </view>
+          <view class='clear'></view>
+
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/personal.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='JobDescription'>
+                <text>3年以上web开发经验，1年以上小程序开发经验，比较熟练拿手掌握的技能有：
+一、java开发：
+1、Java语言进行面向对象程序开发。（熟悉）
+2、了解常用设计模式。（熟悉）
+3、pringboot主 流框架进行开发。(熟悉)
+5、基于vue语 言element前台管理系统框架开发。（一般）
+6、Ajax及跨域请求jsonp、cors、 nginx等技术实现跨域。(熟悉)
+7、熟悉项目程序bug测试、性能优化、有快速解决问题的能力。
+8、
+二、web前端设计：
+1、熟悉使用Axure UE设计。
+2、熟悉HTML4 Table DIV+CSS 及 熟悉HTML5页面排版设计。
+3、熟悉JavaScript、JQuery、Vue.js、Bootstrap、SuperSlide.js前端设计开发。
+三、数据库优化：
+1、熟悉MYSQL数据库的设计及优化，对NoSQL（Mongodb）了解，使用过oracle。
+2、熟悉Redis、Memcached及Cache等缓存技术。
+3、了解MySQL数据库事务处理。
+四、其他方面：
+1、熟悉开发环境的搭建、优化（Linux系统、Windows系统上部署环境）；
+2、熟悉https协议，项目部署，域名备案，证书申请流程； 
+3、熟悉SVN，GIT代码版本协作管理等。
+4、熟悉linux GIT SVN钩子配置等。
+                </text>
+              </view>
+          </view>
+      </view>
+</view>
+
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/self-description.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+              <view class='JobDescription'>
+                <text>做人：忠实诚信,讲原则，说到做到，决不推卸责任；有自制力，做事情始终坚持有始有终，从不半途而废，性格开朗、为人诚恳、乐观向上、兴趣广泛、拥有较强的组织能力和适应能力、并具有较强的管理策划与组织管理协调能力。\n
+                    做事：做一行爱一行，我一直坚信，做自己喜欢的工作是世界上最令人开心的事情，会用100%的热情和精力投入到工作中！毕竟上班时间我是开心的，下班时间也是开心的。\n
+                    学习：一直都觉得人生就是一个不断学习的过程，我坚信人生只有通过学习，才能通往更美好的未来，实现人生自我实现的必由之路。
+                    </text>
+              </view>
+          </view>
+      </view>
+</view>
+
+<view class="flex-container">
+      <view class="flex-item flex-item1">
+          <image class='image' src='/imgs/resume/Education.png'></image>
+      </view>
+      <view class="flex-item flex-item2">
+          <view class='ledtop'>
+
+              <view class='led'>芜湖职业技术学院</view>
+              <view class='position'>专业:【 软件技术 】</view>
+              <view class='deadline'>期限:【 2015.7 - 2018.7】</view>
+              <view class='JobDescription'>
+                <text>Linux系统、Windows服务器系统、网页设计、数据结构、python、mysql数据库、java程序开发
+                </text>
+              </view>
+              <view class='clear'></view>
+
+              <view class='led'>西南交通大学</view>
+              <view class='position'>专业:【 计算机科学与技术 】</view>
+              <view class='deadline'>期限:【 2020.3 - 至今 】</view>
+              <view class='JobDescription'>
+                <text>计算机基础应用、c语言、数据结构、计算机英语、数据库</text>
+              </view>
+
+          </view>
+      </view>
+</view>
+
+  <view class='clear'></view>
+      <view class='employment'>
+      社交圈子：
+          <text>
+          博客：https://www.ymnlwyy.com/
+          GitHub: https://github.com/BobGod
+          </text>
+      </view>
+
+<view class='clear'></view>
+<view class='enddec'>
+    © 2020 ZhengWei Corporation. All rights reserved. 
+</view>
+<view class='end'></view>
+
+</view>
